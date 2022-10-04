@@ -1,4 +1,35 @@
-# Getting Started with Create React App
+# React Portfolio
+## Description
+
+
+
+<img src="./assets/Social_Network_screenshot.png">
+
+## Table of Content
+- [Usage Information](#usage)
+- [License](#license)
+- [Contributor](#contributor)
+- [Contact Information](#contact)
+
+## Usage
+
+Enter "npm start" from the CLI and press enter, then you can test the API routes using Insomnia through the localhost.
+
+## License
+
+[ISC](https://choosealicense.com/licenses/isc/) license
+
+## Contributor
+
+Jason South
+
+## Contact
+Jason South <br/>
+GitHub username: jsouth75 <br/>
+Email: jason.south@me.com
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

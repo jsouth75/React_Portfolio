@@ -1,13 +1,13 @@
 import React from 'react';
 
-function NavTabs({ currentPage, handlePageChange }) {
+function Navbar({ currentPage, handlePageChange }) {
   return (
     <ul className="nav nav-tabs">
       <li className="nav-item">
         <a
-          href="#home"
-          onClick={() => handlePageChange('Home')}
-          className={currentPage === 'Home' ? 'nav-link active' : 'nav-link'}
+          href="#About"
+          onClick={() => handlePageChange('About')}
+          className={currentPage === 'About' ? 'nav-link active' : 'nav-link'}
         >
           {/* importing from About.js */}
           About
@@ -15,9 +15,9 @@ function NavTabs({ currentPage, handlePageChange }) {
       </li>
       <li className="nav-item">
         <a
-          href="#about"
-          onClick={() => handlePageChange('About')}
-          className={currentPage === 'About' ? 'nav-link active' : 'nav-link'}
+          href="#Portfolio"
+          onClick={() => handlePageChange('Portfolio')}
+          className={currentPage === 'Portfolio' ? 'nav-link active' : 'nav-link'}
         >
           {/* importing from Portfolio.js */}
           Portfolio
@@ -25,9 +25,9 @@ function NavTabs({ currentPage, handlePageChange }) {
       </li>
       <li className="nav-item">
         <a
-          href="#blog"
-          onClick={() => handlePageChange('Blog')}
-          className={currentPage === 'Blog' ? 'nav-link active' : 'nav-link'}
+          href="#Resume"
+          onClick={() => handlePageChange('Resume')}
+          className={currentPage === 'Resume' ? 'nav-link active' : 'nav-link'}
         >
           {/* importing from Resume.js */}
           Resume
@@ -47,4 +47,4 @@ function NavTabs({ currentPage, handlePageChange }) {
   );
 }
 
-export default NavTabs;
+export default Navbar;
