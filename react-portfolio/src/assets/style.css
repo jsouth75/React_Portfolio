@@ -1,13 +1,11 @@
-
-
 .heading{
-    background-color: #282c34;
-    min-height: 5vh;
+    background-color: #3a3e45;
+    /* min-height: 3vh; */
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    font-size: calc(10px + 2vmin);
+    font-size: calc(3px + 2vmin);
     color: white;
 }
 
@@ -29,4 +27,45 @@
     align-items: center;
     justify-content: center;
     font-size: calc(15px + 2vmin);
+}
+
+.about{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+}
+
+.bio{
+    margin: 0 3rem 0 3rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+}
+
+.resume{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+}
+
+.portfolio{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+}
+
+.row{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
 }
