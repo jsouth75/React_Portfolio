@@ -1,13 +1,19 @@
 import React from 'react';
-import '../../../src/App.css';
+import '../../App.css';
+import pdfFile from '../../assets/img/Resume.pdf';
+import { Document,Page } from 'react-pdf/dist/esm/entry.webpack';
 
-export default function Resume() {
+function Resume() {
   return (
-    <div>
-      <h1>Resume Page</h1>
-      <p>
-       
-      </p>
+    <div className='resume'>
+      <h1>Resume</h1>
+      <div>
+        <Document file={pdfFile}>
+          <Page pageNumber={1} />
+        </Document>
+      </div>
     </div>
   );
 }
+
+export default Resume;

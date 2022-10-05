@@ -1,8 +1,9 @@
 import React from 'react';
+import '../assets/style.css';
 
-export default function Header() {
+function Header() {
   return (
-    <div>
+    <div className='heading'>
       <h1>Jason South</h1>
       <p>
         
@@ -10,3 +11,5 @@ export default function Header() {
     </div>
   );
 }
+
+export default Header;
