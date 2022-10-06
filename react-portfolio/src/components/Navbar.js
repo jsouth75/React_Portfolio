@@ -1,44 +1,45 @@
 import React from 'react';
+import '../assets/style.css';
 
 function Navbar({ currentPage, handlePageChange }) {
   return (
-      <ul>
-        <li className="nav-item">
+      <ul className='navTabs'>
+        <li className='navTabs'>
           {/* importing from About.js */}
           <a
             href="#About"
             onClick={() => handlePageChange('About')}
-            className={currentPage === 'About' ? 'nav-link active' : 'nav-link'}
+            className={currentPage === 'About' ? 'navLink active' : 'navLink'}
             >
             About
           </a>
         </li>
-        <li className="nav-item">
+        <li className='navTabs'>
           {/* importing from Portfolio.js */}
           <a
             href="#Portfolio"
             onClick={() => handlePageChange('Portfolio')}
-            className={currentPage === 'Portfolio' ? 'nav-link active' : 'nav-link'}
+            className={currentPage === 'Portfolio' ? 'navLink active' : 'navLink'}
             >
             Portfolio
           </a>
         </li>
-        <li className="nav-item">
+        <li className='navTabs'>
           {/* importing from Resume.js */}
           <a
             href="#Resume"
             onClick={() => handlePageChange('Resume')}
-            className={currentPage === 'Resume' ? 'nav-link active' : 'nav-link'}
+            className={currentPage === 'Resume' ? 'navLink active' : 'navLink'}
             >
             Resume
           </a>
         </li>
-        <li className="nav-item">
+        <li className='navTabs'>
           {/* importing from Contact.js */}
           <a
             href="#contact"
             onClick={() => handlePageChange('Contact')}
-            className={currentPage === 'Contact' ? 'nav-link active' : 'nav-link'}
+            className={currentPage === 'Contact' ? 'navLink active' : 'navLink'}
             >
             Contact
           </a>

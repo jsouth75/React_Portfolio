@@ -62,10 +62,46 @@
     font-size: 15px;
 }
 
+.projects{
+    margin: 3rem 3rem 3rem 3rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+img{
+    width: 400px;
+    height: auto;
+}
+
 .row{
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    font-size: 15px;
+}
+
+.inputForm{
+    margin: 0 3rem 0 3rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+}
+
+.submitBtn{
+    margin: 1rem 3rem 1rem 3rem;
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+}
+
+.navTabs{
+    flex-direction: column;
+    align-items: left;
+    justify-content: left;
     font-size: 15px;
 }
