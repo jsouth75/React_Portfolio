@@ -4,8 +4,8 @@
 ## Description
 I recreated my resume showcasing some of the projects I have created in last few months by using React. 
 
-Deployed Link: <a href="" title="React_Portfolio">React Portfolio</a>
-GitHub Link: 
+Deployed Link: <a href="https://jsouth75.github.io/React_Portfolio/" title="React_Portfolio">React Portfolio</a>
+GitHub Link: <a href="https://github.com/jsouth75/React_Portfolio" title="React_Portfolio">React Portfolio<a>
 
 <img src="./src/assets/img/React_Portfolio.png">
 
