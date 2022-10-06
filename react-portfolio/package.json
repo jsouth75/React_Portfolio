@@ -12,7 +12,7 @@
     "web-vitals": "^2.1.4"
   },
 
-  "homepage": "https://jsouth75.github.io/react-portfolio/",
+  "homepage": "https://jsouth75.github.io/React-Portfolio/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
