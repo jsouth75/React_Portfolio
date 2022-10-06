@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.90267c9a.css",
-    "main.js": "/React-Portfolio/static/js/main.4bde4520.js",
-    "static/js/787.a2cb61a6.chunk.js": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js",
-    "pdf.worker.js": "/React-Portfolio/e7e915313973ba1d49f9bb2a1998626e.js",
-    "static/media/Employee_Tracker.png": "/React-Portfolio/static/media/Employee_Tracker.70cd9003f4fe5d26b76c.png",
-    "static/media/Javascript_coding-quiz.png": "/React-Portfolio/static/media/Javascript_coding-quiz.2cbf000528c151ad23ee.png",
-    "static/media/E_commerce.png": "/React-Portfolio/static/media/E_commerce.6c1a4f3e763870ca47d9.png",
-    "static/media/Work_Day_scheduler.png": "/React-Portfolio/static/media/Work_Day_scheduler.6bc61f97ce763f3da50b.png",
-    "static/media/Password_Generator.png": "/React-Portfolio/static/media/Password_Generator.ff64c9f5d03832443bf9.png",
-    "static/media/Note_Taker_screenshot.png": "/React-Portfolio/static/media/Note_Taker_screenshot.dfb214a0774e5c015bf4.png",
-    "static/media/Resume.pdf": "/React-Portfolio/static/media/Resume.e848a5d32e4cb68bb365.pdf",
-    "index.html": "/React-Portfolio/index.html",
-    "main.90267c9a.css.map": "/React-Portfolio/static/css/main.90267c9a.css.map",
-    "main.4bde4520.js.map": "/React-Portfolio/static/js/main.4bde4520.js.map",
-    "787.a2cb61a6.chunk.js.map": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/React_Portfolio/static/css/main.90267c9a.css",
+    "main.js": "/React_Portfolio/static/js/main.de97a3a3.js",
+    "static/js/787.a2cb61a6.chunk.js": "/React_Portfolio/static/js/787.a2cb61a6.chunk.js",
+    "pdf.worker.js": "/React_Portfolio/e7e915313973ba1d49f9bb2a1998626e.js",
+    "static/media/Employee_Tracker.png": "/React_Portfolio/static/media/Employee_Tracker.70cd9003f4fe5d26b76c.png",
+    "static/media/Javascript_coding-quiz.png": "/React_Portfolio/static/media/Javascript_coding-quiz.2cbf000528c151ad23ee.png",
+    "static/media/E_commerce.png": "/React_Portfolio/static/media/E_commerce.6c1a4f3e763870ca47d9.png",
+    "static/media/Work_Day_scheduler.png": "/React_Portfolio/static/media/Work_Day_scheduler.6bc61f97ce763f3da50b.png",
+    "static/media/Password_Generator.png": "/React_Portfolio/static/media/Password_Generator.ff64c9f5d03832443bf9.png",
+    "static/media/Note_Taker_screenshot.png": "/React_Portfolio/static/media/Note_Taker_screenshot.dfb214a0774e5c015bf4.png",
+    "static/media/Resume.pdf": "/React_Portfolio/static/media/Resume.e848a5d32e4cb68bb365.pdf",
+    "index.html": "/React_Portfolio/index.html",
+    "main.90267c9a.css.map": "/React_Portfolio/static/css/main.90267c9a.css.map",
+    "main.de97a3a3.js.map": "/React_Portfolio/static/js/main.de97a3a3.js.map",
+    "787.a2cb61a6.chunk.js.map": "/React_Portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.90267c9a.css",
-    "static/js/main.4bde4520.js"
+    "static/js/main.de97a3a3.js"
   ]
 }
