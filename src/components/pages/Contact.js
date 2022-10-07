@@ -1,9 +1,8 @@
 import React, { useState} from 'react';
 import '../../assets/style.css';
 import Container from 'react-bootstrap/Container';
-import Button from 'react-bootstrap/Button';
-// import PlaceHolder from 'react-bootstrap/Placeholder';
 import Card from 'react-bootstrap/Card';
+import Button from 'react-bootstrap/Button';
 
 function Contact() {
   const [name, setName] = useState('');
@@ -21,7 +20,7 @@ function Contact() {
     <Container className='inputForm'>
       <Card className='card'>
         <Card.Body>
-          <Card.Title className='NavTitles'>Contact Me</Card.Title>
+          <Card.Title className='NavTitles text-center'>Contact Me</Card.Title>
           <form onSubmit={handleSubmit}>
 
           {/* input name */}
