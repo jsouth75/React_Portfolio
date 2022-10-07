@@ -1,11 +1,16 @@
 import React from 'react';
 import '../assets/style.css';
+import Container from 'react-bootstrap/Container';
 
 function Header() {
   return (
-    <div className='heading'>
+    <Container className='heading'>
       <h1>Jason South</h1>
-    </div>
+      <span>
+        <p className='title'>Full Stack Web Developer</p>
+      </span>
+
+    </Container>
   );
 }
 

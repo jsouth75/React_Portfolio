@@ -83,13 +83,20 @@ img{
     font-size: 15px;
 }
 
-.inputForm{
+.navTitle{
     margin: 0 3rem 0 3rem;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    font-size: 15px;
+    font-size: 30px;
+}
+
+.inputForm{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 .submitBtn{
@@ -104,4 +111,10 @@ img{
     align-items: left;
     justify-content: left;
     font-size: 15px;
+}
+
+.card{
+    flex-direction: column;
+    align-items: left;
+    justify-content: left;
 }
