@@ -10,10 +10,10 @@ function Footer() {
     <div className='footer'>
       <footer className='icons'>
         <div className='icons'>
-          <a href='https://github.com/jsouth75' >GitHub<DiGithubBadge /></a>
+          <a href='https://github.com/jsouth75' ><DiGithubBadge /></a>
         </div>
         <div className='icons'>
-          <a href='https://www.linkedin.com/in/jason-south-86939a47/' >LinkedIn<FaLinkedin /></a>
+          <a href='https://www.linkedin.com/in/jason-south-86939a47/' ><FaLinkedin /></a>
         </div>
       </footer>
     </div>
