@@ -63,6 +63,11 @@
     font-size: 15px;
 }
 
+.resumeBtn{
+    background-color: #3a3e45;
+    color: white;
+}
+
 .portfolio{
     margin-top: 1rem;
     display: flex;

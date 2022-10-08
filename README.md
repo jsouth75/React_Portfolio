@@ -17,7 +17,7 @@ GitHub Link: <a href="https://github.com/jsouth75/React_Portfolio" title="React_
 
 ## Usage
 
-Enter "npm start" from the CLI and press enter.
+Click on the deployed link above.
 
 ## License
 
